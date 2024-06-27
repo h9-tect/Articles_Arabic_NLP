@@ -323,7 +323,7 @@ response = agent.chat("كيف يختلف الطقس في لوس أنجلوس ع�
 print(response)
 ```
 
-## أدوات Llamaindex وعملاء البيانات (تكملة)
+## أدوات Llamaindex وعملاء البيانات 
 
 ```python
 from llama_index.agent import OpenAIAgent
