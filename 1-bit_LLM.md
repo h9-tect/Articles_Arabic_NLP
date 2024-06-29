@@ -1,6 +1,6 @@
 # التحليل  لـ 1-bit LLMs
 
-## 1. ديناميكيات التدريب المتقدمة
+## 1. ديناميكيات التدريب 
 
 ### 1.1 تحليل S-shape Loss Curve
 
@@ -25,7 +25,7 @@
 - الـ learning rate schedules التقليدية زي exponential decay ممكن تكون suboptimal
 - الـ batch size dynamics ممكن تلعب دور مهم في تحسين الـ stochastic gradient behavior
 
-### 1.2 تحسين الـ Learning Rate - تفاصيل متقدمة
+### 1.2 تحسين الـ Learning Rate
 
 استراتيجية الـ two-stage learning rate:
 
